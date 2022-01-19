@@ -1,5 +1,7 @@
 ### Hi there 👋
-  [![rylah's github stats](https://github-readme-stats.vercel.app/api?username=rylahs)](https://github.com/anuraghazra/github-readme-stats)
+![Rylah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rylahs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rylahs&layout=compact&theme=tokyonight)
+
 
 <!--
 **rylahs/rylahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
