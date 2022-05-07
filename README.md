@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rylahs&layout=compact&theme=tokyonight)
-![Rylah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rylahs&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=miusha)](https://solved.ac/miusha)
+![Rylah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rylahs&show_icons=true&theme=tokyonight)    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=miusha)](https://solved.ac/miusha)    
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=miusha&theme=dark)    
 
 <!--
 **rylahs/rylahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
