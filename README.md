@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Rylah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rylahs&show_icons=true&theme=tokyonight)    
+![Rylah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rylahs&count_private=true&show_icons=true&theme=tokyonight)    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rylahs)](https://solved.ac/rylahs)    
 [![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=rylahs&theme=dark)](https://solved.ac/rylahs)    
 
